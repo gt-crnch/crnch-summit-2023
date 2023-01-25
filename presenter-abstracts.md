@@ -1,7 +1,7 @@
 # Thursday, February 2nd, 2023
 
 
-## <a id="jv">Jeffrey Vetter - _Keynote - Deep Codesign in the Post-Exascale Computing Era</a>
+## <a id="jv">Jeffrey Vetter - _Keynote_ - Deep Codesign in the Post-Exascale Computing Era</a>
 
 <img alt="Jeffrey Vetter Headshot" src="https://github.com/gt-crnch/crnch-summit-2023/blob/main/presenter_slides/Thursday_02_02_23/headshots/jv_headshot.png" width="200" height="200">
 
