@@ -3,7 +3,7 @@
 
 ## <a id="jv">Jeffrey Vetter - _Keynote_ - Deep Codesign in the Post-Exascale Computing Era</a>
 
-<img alt="Jeffrey Vetter Headshot" src="https://github.com/gt-crnch/crnch-summit-2023/blob/main/presenter_slides/Thursday_02_02_23/headshots/jv_headshot.png" width="200" height="200">
+<img alt="Jeffrey Vetter Headshot" src="https://github.com/gt-crnch/crnch-summit-2023/blob/main/presenter_slides/Thursday_02_02_23/headshots/jv_headshot.jpg" width="200" height="200">
 
 <a id="jv_ab"></a>**Abstract:** DOE has just deployed its first Exascale system at ORNL, so now is an appropriate time to revisit our Exascale predictions from over a decade ago and think about post-Exascale. We are now seeing a Cambrian explosion of new technologies during this this ‘golden age of architectures,’ making codesign of architectures with software and applications more critical than ever. In this talk, I will revisit Exascale trajectory, survey post-Exascale technologies, and discuss their implications for both system design and software. As an example, I will describe Abisko, a new microelectronics codesign project, that focuses on designing a chiplet for analog spiking neural networks using novel neuromorphic materials.
 
