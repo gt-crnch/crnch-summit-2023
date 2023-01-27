@@ -20,4 +20,4 @@ To present a poster we ask you to do the following:
 * Each student should have a set amount of pay-for-print funds that can be used to print at the library. 
     * [See this ServiceNow entry for more information on printing](https://gatech.service-now.com/home?id=kb_article_view&sysparm_article=KB0027983)  
     * Please let us know at captain@crnch.gatech.edu if this poses a financial burden or if you have run out of PFP funds for the semester.
-* Please print a 36x48 poster in matte finish. 
+* Please print a 24x36 poster in matte finish. This will ensure that your poster fits on the posterboad.
