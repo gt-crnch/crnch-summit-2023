@@ -8,7 +8,8 @@ The CRNCH Summit Poster template can be found under Dropbox [at this link](https
 To present a poster we ask you to do the following:
 1) [Fill out the survey here](https://gatech.co1.qualtrics.com/jfe/form/SV_4ZmQ7mehWtfLrVA) with the information about your poster below including the abstract for your poster and a PDF version of the poster.
 2)  Please sign up for the summit [using this registration link](https://forms.office.com/r/wsyX34aEJe).
-3)  Show up to present your poster by 11 AM and talk about it with other attendees around lunchtime (12:15 AM) on Thursday, Feb. 2nd.
+3)  Bring you poster to the summit registration desk by 11 AM on Thursday, February 2nd.
+4)  Prepare to present your poster and talk about it with other attendees around lunchtime (12:15 AM) on Thursday, Feb. 2nd.
 
 ## Printing your poster
 
