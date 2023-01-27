@@ -47,9 +47,9 @@ In this talk, we begin by discussing some of the costs, challenges and opportuni
 Visvesh is currently at the Georgia Institute of Technology where his group, the Processing Systems lab, works on a range of problems spanning energy efficient computing, integrated power electronics, and mixed-signal design. Prior to joining UW, he spent six years at AMD where he invented and translated a number of key technologies for energy efficient computing into volume production. These included the resonant clocking in AMDs "Piledriver" and "Steamroller" microprocessors, and adaptive clock stretching for voltage droop mitigation. He currently serves on the IEEE SSCS webinar committee to promote professional and student development, and is a distinguished lecturer of the IEEE Solid State Circuits Society, and in the Technical Program Committee of the Custom Integrated Circuits Conference and the International Solid-State Circuits Conference. 
 
 <!-- Bill Harrod -->
-## <a id="jv">Bill Harrod - TBD Title</a>
+## <a id="jv">Bill Harrod - IARPA AGILE Program</a>
 
-<img alt="Bill Harrod Headshot" src="./presenter_slides/Thursday_02_02_23/headshots/wh_headshot.jpeg" width="300" height="300">
+<img alt="Bill Harrod Headshot" src="./presenter_slides/Thursday_02_02_23/headshots/wh_headshot.jpeg" width="150" height="150">
 
 <a id="jv_ab"></a>**Abstract:** Today’s era of explosive data growth poses serious challenges for society in transforming massive, random, heterogeneous data streams and structures into useful knowledge, a necessity in every aspect of modern life, including national security, economic productivity, scientific discovery, medical breakthroughs, and social interactions. This burgeoning data, which is increasing exponentially not only in volume, but in velocity, variety, and complexity, already far outpaces the abilities of current computing systems to execute the complex data analytics needed to extract meaningful insights in a timely manner.
 
@@ -77,7 +77,7 @@ Dr Harrod earned a Ph.D. in mathematics from the University of Tennessee and a b
 Jeffrey Vetter, Ph.D., is a Corporate Fellow at Oak Ridge National Laboratory (ORNL). At ORNL, he is currently the Section Head for Advanced Computer Systems Research and the founding director of the Experimental Computing Laboratory (ExCL). Vetter earned his Ph.D. in Computer Science from the Georgia Institute of Technology. Vetter is a Fellow of the IEEE and AAAS, and a Distinguished Scientist Member of the ACM. In 2010, Vetter, as part of an interdisciplinary team from Georgia Tech, NYU, and ORNL, was awarded the ACM Gordon Bell Prize. In 2020, in collaboration with a large team from IBM and LLNL, Vetter was awarded the SC20 Test of Time award for the paper from SC02, entitled “An Overview of the Blue Gene/L Supercomputer.” In 2015, Vetter served as the SC15 Technical Program Chair. His recent books, entitled "Contemporary High Performance Computing: From Petascale toward Exascale (Vols. 1-3)," survey the international landscape of HPC. Learn more information at https://vetter.github.io/. -->
 
 <!-- Vivek Sarkar -->
-## <a id="jv">Vivek Sarkar - TBD Title</a>
+## <a id="jv">Vivek Sarkar - AGILE co-design for graph applications in the FORZA project </a>
 
 <img alt="Vivek Sarkar Headshot" src="./presenter_slides/Thursday_02_02_23/headshots/vsarkar_headshot.jpeg" width="300" height="300">
 
@@ -106,15 +106,14 @@ Samantika Sury is Chief Hardware Architect and VP for HPC Hardware for Samsung E
 <a id="jv_bio"></a>**Biography:**
 Jeff Hollingsworth is Vice President of IT, Chief Information Officer, and a Professor of Computer Science at the University of Maryland.  His research focuses in the area of performance measurement for high performance computing. In his role as CIO he oversees MAX, UMD's regional high speed network, and QLab where UMD's Quantum computer is located.
 
-<!-- Creston Harold -->
-## <a id="jv">Creston Harold - TBD Title</a>
+<!-- Creston Herold -->
+## <a id="ch">Creston Herold - Optimization with Near-term Quantum Computers</a>
 
-<img alt="Creston Harold Headshot" src="./presenter_slides/Thursday_02_02_23/headshots/ch_headshot.jpeg" width="300" height="300">
+<img alt="Creston Herold Headshot" src="./presenter_slides/Thursday_02_02_23/headshots/ch_headshot.jpeg" width="300" height="300">
 
-<a id="jv_ab"></a>**Abstract:** DOE has just deployed its first Exascale system at ORNL, so now is an appropriate time to revisit our Exascale predictions from over a decade ago and think about post-Exascale. We are now seeing a Cambrian explosion of new technologies during this this ‘golden age of architectures,’ making codesign of architectures with software and applications more critical than ever. In this talk, I will revisit Exascale trajectory, survey post-Exascale technologies, and discuss their implications for both system design and software. As an example, I will describe Abisko, a new microelectronics codesign project, that focuses on designing a chiplet for analog spiking neural networks using novel neuromorphic materials.
+<a id="ch_ab"></a>**Abstract:** 
 
-<a id="jv_bio"></a>**Biography:**
-Jeffrey Vetter, Ph.D., is a Corporate Fellow at Oak Ridge National Laboratory (ORNL). At ORNL, he is currently the Section Head for Advanced Computer Systems Research and the founding director of the Experimental Computing Laboratory (ExCL). Vetter earned his Ph.D. in Computer Science from the Georgia Institute of Technology. Vetter is a Fellow of the IEEE and AAAS, and a Distinguished Scientist Member of the ACM. In 2010, Vetter, as part of an interdisciplinary team from Georgia Tech, NYU, and ORNL, was awarded the ACM Gordon Bell Prize. In 2020, in collaboration with a large team from IBM and LLNL, Vetter was awarded the SC20 Test of Time award for the paper from SC02, entitled “An Overview of the Blue Gene/L Supercomputer.” In 2015, Vetter served as the SC15 Technical Program Chair. His recent books, entitled "Contemporary High Performance Computing: From Petascale toward Exascale (Vols. 1-3)," survey the international landscape of HPC. Learn more information at https://vetter.github.io/.
+<a id="ch_bio"></a>**Biography:**
 
 # Friday, February 3rd, 2023
 
@@ -186,7 +185,7 @@ Dr. Seung-Jong Jay Park is the Dr. Fred H. Fenn Memorial Professor of Computer S
 Catherine (Katie) Schuman is an Assistant Professor in the Department of Electrical Engineering and Computer Science at the University of Tennessee (UT). She received her Ph.D. in Computer Science from UT in 2015, where she completed her dissertation on the use of evolutionary algorithms to train spiking neural networks for neuromorphic systems. Katie previously served as a research scientist at Oak Ridge National Laboratory, where her research focused on algorithms and applications of neuromorphic systems.  Katie co-leads the TENNLab Neuromorphic Computing Research Group at UT.  She has over 100 publications as well as seven patents in the field of neuromorphic computing. She received the Department of Energy Early Career Award in 2019.  
 
 <!-- Nabil Imam -->
-## <a id="jv">Nabil Imam - TBD Title</a>
+## <a id="jv">Nabil Imam - Simulating the Visual Cortex in a Chip</a>
 
 <img alt="Nabil Imam Headshot" src="./presenter_slides/Friday_02_03_23/headshots/ni_headshot.jpeg" width="300" height="350">
 
