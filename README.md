@@ -8,14 +8,13 @@ See more information on the posters and lightning talks at the [CRNCH Github pos
 
 ## **CRNCH 2023 Summit Agenda**
 
-## Thursday, February 2nd, 2023     (Marcus Nanotechnology Building, Room 1116)
+## Thursday, February 2nd, 2023     (All Sessions in Marcus Nanotechnology Building, Room 1116)
 
-| 8:30 AM (EST) |                                                   | Registration and Continental Breakfast                       |
+| Time      | **Session**                                    | Speaker and Talk Title |
 | ------------- | ------------------------------------------------- | ------------------------------------------------------------ |
-|               |                                                   |                                                              |
+| 8:30 AM (EST) |                                                   | Registration and Continental Breakfast                       |
 | 9:00 AM       |                                                   | **Rich Vuduc and Hyesoon Kim,** Co-Directors, CRNCH Center   |
 |               |                                                   | *CRNCH Summit Welcome*                                       |
-|               |                                                   |                                                              |
 | 9:15 AM       | ***Keynote\***                                    | **Jeffrey Vetter**  Section Head – Advanced Computing Systems Research, ORNL  [[Speaker Bio](https://github.com/gt-crnch/crnch-summit-2023/blob/main/presenter-abstracts.md#jv_bio)] |
 |               | **Session Chair:**  Rich Vuduc                    | *Deep Codesign in the Post-Exascale Computing Era* [[Abstract](https://github.com/gt-crnch/crnch-summit-2023/blob/main/presenter-abstracts.md#jv_abs)] |
 | 10:00 AM      |                                                   | **BREAK**                                                    |
