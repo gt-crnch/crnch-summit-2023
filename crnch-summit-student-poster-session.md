@@ -5,7 +5,7 @@ We note that in some cases, we have not linked posters due to work being under s
 
 | Student Presenter, Student Authors | Poster Title | Advisor(s) | GT Department | [Poster] [Abstract] |
 | ---------------------------------- | ------------ | ---------- | -------------|-------------------|
-| Elton Pinto, Austin Adams | "Neko: A quantum map-filter-reduce programming language" |   Vivek Sarkar, Tom Conte, Jeffre Young | ECE | [Poster]() [Abstract](#ep) |
+| Elton Pinto, Austin Adams | "Neko: A quantum map-filter-reduce programming language" |   Vivek Sarkar, Tom Conte, Jeffre Young | ECE | [Poster](https://github.com/gt-crnch/crnch-summit-2023/blob/4172ba7ad9e9017ea3b2a6016c5de57386939f2b/student_poster_session/posters/Elton_Pinto_et_al_CRNCH_Summit_2023_Poster.pdf) [Abstract](#ep) |
 
 ## Student Abstracts:
 
