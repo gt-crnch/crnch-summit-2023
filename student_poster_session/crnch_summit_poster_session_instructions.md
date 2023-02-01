@@ -21,3 +21,13 @@ To present a poster we ask you to do the following:
     * [See this ServiceNow entry for more information on printing](https://gatech.service-now.com/home?id=kb_article_view&sysparm_article=KB0027983)  
     * Please let us know at captain@crnch.gatech.edu if this poses a financial burden or if you have run out of PFP funds for the semester.
 * Please print a 24x36 poster in matte finish. This will ensure that your poster fits on the posterboad.
+
+## Bringing your Poster to the Summit
+
+Please either drop off your poster when you check in Thursday morning or by 11 AM on Thursday so that we have time to set all the posters up. The poster session will run during lunch, and posters should remain up for the afternoon break. Please plan to have at least one person near your poster during lunch. 
+
+## Online Posting of Your Poster PDF and Abstract
+
+If you have given us permission, we will post your PDF poster, title and abstract on our archival site at https://github.com/gt-crnch/crnch-summit-2023. Our intention is to create a DOI that you can use to cite this poster presentation, if desired. 
+
+We will use your responses from the submitted form to determine whether to post your poster-related information. You can select to 1) Share your poster PDF and abstract, 2) Only share the poster title but no abstract or PDF, or 3) Only present your poster in person without sharing any information about it online in the agenda. 
