@@ -7,7 +7,7 @@ The CRNCH Summit Poster template can be found under Dropbox [at this link](https
 
 ### Submission Deadlines
 ~Original PDF Submission Deadline (Please remember to print your poster): 11:59 PM, 1/23/2023~  
-PDF Submission Deadline (Please remember to print your poster): 10:59 PM, 2/1/2023
+Extended PDF Submission Deadline (Please remember to print your poster): 10:59 PM, 2/1/2023
 
 To present a poster we ask you to do the following:
 1) [Fill out the survey here](https://gatech.co1.qualtrics.com/jfe/form/SV_4ZmQ7mehWtfLrVA) with the information about your poster below including the abstract for your poster and a PDF version of the poster.
