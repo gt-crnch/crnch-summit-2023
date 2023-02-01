@@ -20,7 +20,8 @@ To present a poster we ask you to do the following:
 * Each student should have a set amount of pay-for-print funds that can be used to print at the library. 
     * [See this ServiceNow entry for more information on printing](https://gatech.service-now.com/home?id=kb_article_view&sysparm_article=KB0027983)  
     * Please let us know at captain@crnch.gatech.edu if this poses a financial burden or if you have run out of PFP funds for the semester.
-* Please print a 24x36 poster in matte finish. This will ensure that your poster fits on the posterboad.
+* Please print a 24x36 (height x width for horizontal) poster in matte finish. This will ensure that your poster fits on the posterboad.
+    * You are welcome to do a horizontal or vertical poster, based on your content. Unfortunately we only have a horizontal template in our Dropbox link above. 
 
 ## Bringing your Poster to the Summit
 
