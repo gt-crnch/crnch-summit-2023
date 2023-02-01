@@ -9,7 +9,7 @@ We note that in some cases, we have not linked posters due to work being under s
 
 ## Student Abstracts:
 
-<a id="ep">**Elton Pinto - "Neko: A quantum map-filter-reduce programming language"**</a>
+<a id="ep">**Elton Pinto, Austin Adams - "Neko: A quantum map-filter-reduce programming language"**</a>
 
 Programming quantum computers is hard. One has to painstakingly write code that builds a circuit using low-level quantum gates. In a way, writing a quantum program is analogous to writing assembly: it is tedious, error-prone, and hard to debug. The gate-level abstraction, albeit universal, is non-intuitive and too primitive to be used for rapidly prototyping large-scale quantum applications. There is a need to develop high-level abstractions that enable programmers to productively leverage the idiosyncrasies of quantum computing: quantum parallelism, interference, and entanglement.
 
