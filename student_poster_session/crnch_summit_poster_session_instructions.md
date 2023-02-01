@@ -5,6 +5,10 @@ The CRNCH Summit will take place in person in the Marcus NanoTechnology Building
 ## Poster Submission Instructions
 The CRNCH Summit Poster template can be found under Dropbox [at this link](https://www.dropbox.com/s/5sczj4x4986ub9e/CRNCH%20Poster%20Template%202022.pptx?dl=0). We have used a slightly modified version of the 2022 template with new logos.
 
+### Submission Deadlines
+~Original PDF Submission Deadline (Please remember to print your poster): 11:59 PM, 1/23/2023~  
+PDF Submission Deadline (Please remember to print your poster): 10:59 PM, 2/1/2023
+
 To present a poster we ask you to do the following:
 1) [Fill out the survey here](https://gatech.co1.qualtrics.com/jfe/form/SV_4ZmQ7mehWtfLrVA) with the information about your poster below including the abstract for your poster and a PDF version of the poster.
 2)  Please sign up for the summit [using this registration link](https://forms.office.com/r/wsyX34aEJe).
