@@ -201,7 +201,7 @@ Nabil Imam is Assistant Professor in the Department of Computational Science and
 
 <img alt="Jennifer Hasler Headshot" src="./presenter_slides/Friday_02_03_23/headshots/joh_headshot.jpeg" width="200" height="300">
 
-<!-- <a id="jh_ab"></a>**Abstract:** 
+<!-- <a id="jh_ab"></a>**Abstract:** -->
 
 <a id="jh_bio"></a>**Biography:**
 Dr. Jennifer Hasler received her B.S.E. and M.S. degrees in electrical engineering from Arizona State University in August 1991. She received her Ph.D. in computation and neural systems from California Institute of Technology in February 1997. Dr. Hasler is a professor at the Georgia Institute of Technology in the School of Electrical and Computer Engineering; Atlanta is the coldest climate in which Dr. Hasler has lived. Dr. Hasler founded the Integrated Computational Electronics (ICE) laboratory at Georgia Tech, a laboratory affiliated with the Laboratories for Neural Engineering. Dr. Hasler is a member of Tau Beta Pi, Eta Kappa Nu, and the IEEE.
