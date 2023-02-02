@@ -28,7 +28,11 @@ We note that in some cases, we have not linked posters due to work being under s
 | Haoran You, Cheng Wan, Yang Zhao, Zhongzhi Yu, Yonggan Fu, Jiayi Yuan, Shang Wu, Shunyao Zhang, Yongan Zhang, Chaojian Li, Vivek Boominathan, Ashok Veeraraghavan, Ziyun Li, Yingyan Lin| "EyeCoD: Eye Tracking System Acceleration via FlatCam-based Algorithm & Accelerator Co-Design" |   Yingyan (Celine) Lin | CS | [Poster]() [Abstract](#hy) |
 | Yongan Zhang, Haoran You, Yonggan Fu, Tong Geng, Ang Li, Yingyan Lin | "G-CoS: GNN-Accelerator Co-Search Towards Both Better Accuracy and Efficiency" |   Yingyan (Celine) Lin | CS | [Poster]() [Abstract](#yz) |
 | Francisco Munoz Martinez, Raveesh Garg, José L. Abellán, Manuel E Acacio, Clay Hughes, Siva Rajamanickam, Tushar Krishna | "Cycle Accurate Simulation of AI Applications using STONNE, SST-STONNE and OMEGA" |   Tushar Krishna | ECE | [Poster]() [Abstract](#fmm) |
-| Pulkit Gupta | Tom Conte | ECE | [Poster]() [Abstract](#pgt) |
+| Pulkit Gupta, Cynthia Wang, Shunzhi Wen, Tom Conte| "A High ILP Architecture for Supercunducting Electronics (SCE)" |   Tom Conte | ECE | [Poster]() [Abstract](#pgcw) |
+| Saeed Rashidi, William Won, Sudarshan Srinivasan, Srinivas Sridharan, Tushar Krishna | "Themis: A Network Bandwidth-Aware Collective Scheduling Policy for Distributed Training of DL Models" |   Tushar Krishna | ECE | [Poster]() [Abstract](#srww) |
+| Vima Gupta, Austin Adams, Elton Pinto, Dr. Jeffrey Young, Dr. Tom M Conte | "Effective qubit mapping, routing and scheduling for Ion-Shuttling Quantum Architectures" |   Dr. Jeffrey Young, Dr. Tom Conte | ECE | [Poster]() [Abstract](#vgaa) |
+| Ryan Lynch, Austin Adams, Tom Conte, Jeff Young | "Leveraging MLIR to Augment a Python Quantum DSL" |   Tom Conte, Jeff Young | ECE | [Poster]() [Abstract](#rlaa) |
+| Anirudh Jain, Pulkit Gupta, Tom Conte | "Residue Matrices for accelerating Sparse Kernels & GraphBLAS" |   Tom Conte | ECE | [Poster]() [Abstract](#ajpg) |
 
 
 ## Student Abstracts:
