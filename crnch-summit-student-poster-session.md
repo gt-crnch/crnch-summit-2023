@@ -3,6 +3,16 @@ The CRNCH Student Poster Session will be held on Feburary 2nd, 2023 from ~12 to 
 
 We note that in some cases, we have not linked posters due to work being under submission or at the presenter's request. 
 
+### Fellowship Winners
+
+| Student Presenter, Student Authors | Poster Title | Advisor(s) | GT Department | [Poster] [Abstract] |
+| ---------------------------------- | ------------ | ---------- | -------------|-------------------|
+| Albert Cho, Anish Saxena, Srikar Vanavasam | "Use CXL, not DDR, for Scalable Server Processors" |   Alexandros Daglis, Moinuddin Qureshi | ECE | [Poster]() [Abstract](#yz) |
+| Afolabi Ige, Jennifer Hasler| "Synthesizing Analog Computing ASICs with Programmable Standard Cells" |   Jennifer Hasler | ECE | [Poster]() [Abstract](#ai) |
+| Rishov Sarkar, Cong (Callie) Hao | "LightningSim: Fast and Accurate Trace-Based Simulation for HLS" |   Cong (Callie) Hao | ECE | [Poster]() [Abstract](#rs) |
+| Zhixin (Jack) Song, Bryan Gard, Spencer Bryngelson | "Solving Partial Differential Equations on Noisy Quantum Computers" |   Dr. Spencer H. Bryngelson | ECE | [Poster]() [Abstract](#zjs) |
+
+
 | Student Presenter, Student Authors | Poster Title | Advisor(s) | GT Department | [Poster] [Abstract] |
 | ---------------------------------- | ------------ | ---------- | -------------|-------------------|
 | Elton Pinto, Austin Adams | "Neko: A quantum map-filter-reduce programming language" |   Vivek Sarkar, Tom Conte, Jeffrey Young | ECE | [Poster](https://github.com/gt-crnch/crnch-summit-2023/blob/4172ba7ad9e9017ea3b2a6016c5de57386939f2b/student_poster_session/posters/Elton_Pinto_et_al_CRNCH_Summit_2023_Poster.pdf) [Abstract](#ep) |
@@ -13,15 +23,12 @@ We note that in some cases, we have not linked posters due to work being under s
 | Cheng Wan, Yang (Katie) Zhao, Yingyan (Celine) Lin| "MixGCN: Scalable GCN Training by Integrating Mixtures of Parallelism, Accelerators, and Experts Models" |   Yingyan (Celine) Lin | ECE | [Poster]() [Abstract](#cw) |
 | Chaojian Li, Zhongzhi Yu, Yonggan Fu, Yongan Zhang, Yang Zhao, Haoran You, Qixuan Yu, Yue Wang, Yingyan (Celine) Lin| "HW-NAS-Bench: Hardware-aware Neural Architecture Search Benchmark" |   Yingyan (Celine) Lin | ECE | [Poster]() [Abstract](#clzy) |
 | Patrick Lavin, Sudhanshu Agarwal, Ryan Lunch, Jeffrey Young, Richard Vuduc| "Multifidelity DRAM Simulation in SST" |   Jeffrey Young, Richard Vuduc | ECE | [Poster]() [Abstract](#pl) |
-| Afolabi Ige, Jennifer Hasler| "Synthesizing Analog Computing ASICs with Programmable Standard Cells" |   Jennifer Hasler | ECE | [Poster]() [Abstract](#ai) |
 | Mikhail Isaev, Nic McDonald, Jeff Young, Rich Vuduc| "ParaGraph: An application-simulator interface and toolkit for hardware-software co-design" |   Richard Vuduc | ECE | [Poster]() [Abstract](#mi) |
 | Yonggan Fu, Yang Zhao, Yonggan Fu, Qixuan Yu, Yonggan Fu, Chaojian Li, Yonggan Fu, Yingyan (Celine) Lin| "2-in-1 Accelerator: Enabling Random Precision Switch for Winning Both Adversarial Robustness and Efficiency" |   Yingyan (Celine) Lin | ECE | [Poster]() [Abstract](#yf) |
 | Haoran You, Cheng Wan, Yang Zhao, Zhongzhi Yu, Yonggan Fu, Jiayi Yuan, Shang Wu, Shunyao Zhang, Yongan Zhang, Chaojian Li, Vivek Boominathan, Ashok Veeraraghavan, Ziyun Li, Yingyan Lin| "EyeCoD: Eye Tracking System Acceleration via FlatCam-based Algorithm & Accelerator Co-Design" |   Yingyan (Celine) Lin | CS | [Poster]() [Abstract](#hy) |
 | Yongan Zhang, Haoran You, Yonggan Fu, Tong Geng, Ang Li, Yingyan Lin | "G-CoS: GNN-Accelerator Co-Search Towards Both Better Accuracy and Efficiency" |   Yingyan (Celine) Lin | CS | [Poster]() [Abstract](#yz) |
 | Francisco Munoz Martinez, Raveesh Garg, José L. Abellán, Manuel E Acacio, Clay Hughes, Siva Rajamanickam, Tushar Krishna | "Cycle Accurate Simulation of AI Applications using STONNE, SST-STONNE and OMEGA" |   Tushar Krishna | ECE | [Poster]() [Abstract](#fmm) |
-| Albert Cho*, Anish Saxena*, Srikar Vanavasam | "Use CXL, not DDR, for Scalable Server Processors" |   Alexandros Daglis, Moinuddin Qureshi | ECE | [Poster]() [Abstract](#yz) |
-| Rishov Sarkar, Cong (Callie) Hao | "LightningSim: Fast and Accurate Trace-Based Simulation for HLS" |   Cong (Callie) Hao | ECE | [Poster]() [Abstract](#rs) |
-| Zhixin (Jack) Song, Bryan Gard, Spencer Bryngelson | "Solving Partial Differential Equations on Noisy Quantum Computers" |   Dr. Spencer H. Bryngelson | ECE | [Poster]() [Abstract](#zjs) |
+
 
 ## Student Abstracts:
 
