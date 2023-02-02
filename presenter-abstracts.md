@@ -14,9 +14,9 @@ Jeffrey Vetter, Ph.D., is a Corporate Fellow at Oak Ridge National Laboratory (O
 
 ## <a id="bt">Bob Turner - Accelerating AI through photonic communication and computing </a>
 
-<img alt="Bob Turner Headshot" src="./presenter_slides/Thursday_02_02_23/headshots/rj_headshot.jpeg" width="300" height="300">
+<img alt="Bob Turner Headshot" src="./presenter_slides/Thursday_02_02_23/headshots/bt_headshot.jpg" width="150" height="150">
 
-<a id="rj_ab"></a>**Abstract:** The insatiable growth in computing needs, coupled with the end of Dennard Scaling and the slowdown of Moore’s Law, is resulting in a major shift across the industry towards a chiplets-based product architecture. Solutions that enable the heterogeneous integration of disaggregated silicon at high data rates and low power are becoming increasingly important. Silicon photonics based interconnect solutions play a critical role in enabling this integration.
+<a id="bt_ab"></a>**Abstract:** The insatiable growth in computing needs, coupled with the end of Dennard Scaling and the slowdown of Moore’s Law, is resulting in a major shift across the industry towards a chiplets-based product architecture. Solutions that enable the heterogeneous integration of disaggregated silicon at high data rates and low power are becoming increasingly important. Silicon photonics based interconnect solutions play a critical role in enabling this integration.
 
 <a id="bt_bio"></a>**Biography:**
 Bob Turner is the Vice President of Sales at Lightmatter - who provides state of the art silicon photonics solutions targeting a wide range of applications where data movement is the limiting factor.  Prior to Lightmatter, Mr. Turner held senior roles at Graphcore and Cavium.  
@@ -83,9 +83,9 @@ Fabrizio published over 120 peer-reviewed journal and conference articles which 
 
 <img alt="Vivek Sarkar Headshot" src="./presenter_slides/Thursday_02_02_23/headshots/vsarkar_headshot.jpeg" width="300" height="300">
 
-<!-- <a id="jv_ab"></a>**Abstract:** DOE has just deployed its first Exascale system at ORNL, so now is an appropriate time to revisit our Exascale predictions from over a decade ago and think about post-Exascale. We are now seeing a Cambrian explosion of new technologies during this this ‘golden age of architectures,’ making codesign of architectures with software and applications more critical than ever. In this talk, I will revisit Exascale trajectory, survey post-Exascale technologies, and discuss their implications for both system design and software. As an example, I will describe Abisko, a new microelectronics codesign project, that focuses on designing a chiplet for analog spiking neural networks using novel neuromorphic materials.
+<!-- <a id="vsarkar_ab"></a>**Abstract:** DOE has just deployed its first Exascale system at ORNL, so now is an appropriate time to revisit our Exascale predictions from over a decade ago and think about post-Exascale. We are now seeing a Cambrian explosion of new technologies during this this ‘golden age of architectures,’ making codesign of architectures with software and applications more critical than ever. In this talk, I will revisit Exascale trajectory, survey post-Exascale technologies, and discuss their implications for both system design and software. As an example, I will describe Abisko, a new microelectronics codesign project, that focuses on designing a chiplet for analog spiking neural networks using novel neuromorphic materials.
 
-<a id="jv_bio"></a>**Biography:**
+<a id="vsarkar_bio"></a>**Biography:**
 Jeffrey Vetter, Ph.D., is a Corporate Fellow at Oak Ridge National Laboratory (ORNL). At ORNL, he is currently the Section Head for Advanced Computer Systems Research and the founding director of the Experimental Computing Laboratory (ExCL). Vetter earned his Ph.D. in Computer Science from the Georgia Institute of Technology. Vetter is a Fellow of the IEEE and AAAS, and a Distinguished Scientist Member of the ACM. In 2010, Vetter, as part of an interdisciplinary team from Georgia Tech, NYU, and ORNL, was awarded the ACM Gordon Bell Prize. In 2020, in collaboration with a large team from IBM and LLNL, Vetter was awarded the SC20 Test of Time award for the paper from SC02, entitled “An Overview of the Blue Gene/L Supercomputer.” In 2015, Vetter served as the SC15 Technical Program Chair. His recent books, entitled "Contemporary High Performance Computing: From Petascale toward Exascale (Vols. 1-3)," survey the international landscape of HPC. Learn more information at https://vetter.github.io/. -->
 
 <!-- Samantika Sury -->
@@ -140,13 +140,13 @@ James C. Hoe is a Professor of Electrical and Computer Engineering at Carnegie M
 Siva Rajamanickam is a principal member of technical staff at Sandia National Laboratories. His interest is broadly in the areas of high performance computing, specifically in performance portable algorithms, machine learning for science, co-design of algorithms and architectures and combinatorial scientific computing. Most of his works are in the intersection of these areas where interesting opportunities lie to solve problems that are of importance to computational science use cases.  Dr. Rajamanickam leads several projects funded by the Advanced Scientific Computing and Research (ASCR) program of DOE Office of Science, NNSA’s Advanced Simulation and Computing program and Sandia’s Lab Directed Research and Development program. Dr. Rajamanickam has been part of leadership for several open source, high performance scientific software. He is part of the leadership team for the Kokkos ecosystem and the linear solvers product area lead for the Trilinos library. His scientific machine learning contributions are part of the materials library MALA.  
 
 <!-- Callie Hao -->
-## <a id="ch">Callie Hao - Multi-task Vision Transformer with Mixture-of-Expert: Algorithm and Accelerator</a>
+## <a id="c_hao">Callie Hao - Multi-task Vision Transformer with Mixture-of-Expert: Algorithm and Accelerator</a>
 
 <img alt="Callie Hao Headshot" src="./presenter_slides/Friday_02_03_23/headshots/ch_headshot.jpeg" width="300" height="400">
 
-<a id="ch_ab"></a>**Abstract:** Dr. Cong (Callie) Hao is an assistant professor in ECE at Georgia Tech. She was a postdoctoral fellow at Georgia Tech from 2020-2021 and at UIUC from 2018-2020. She received the Ph.D. degree in Electrical Engineering from Waseda University in 2017, and the M.S. and B.S. degrees in Computer Science and Engineering from Shanghai Jiao Tong University. Her primary research interests lie in the joint area of efficient hardware design and machine learning algorithms, including software/hardware co-design for reconfigurable and high-efficiency computing and agile electronic design automation tools. 
+<a id="c_hao_ab"></a>**Abstract:** Dr. Cong (Callie) Hao is an assistant professor in ECE at Georgia Tech. She was a postdoctoral fellow at Georgia Tech from 2020-2021 and at UIUC from 2018-2020. She received the Ph.D. degree in Electrical Engineering from Waseda University in 2017, and the M.S. and B.S. degrees in Computer Science and Engineering from Shanghai Jiao Tong University. Her primary research interests lie in the joint area of efficient hardware design and machine learning algorithms, including software/hardware co-design for reconfigurable and high-efficiency computing and agile electronic design automation tools. 
 
-<a id="ch_bio"></a>**Biography:**
+<a id="c_hao_bio"></a>**Biography:**
 The computer vision community is embracing two promising learning paradigms: the Vision Transformer (ViT) and Multi-task Learning (MTL). ViT models show extraordinary performance comparing with traditional convolution networks but are commonly recognized as computation-intensive. MTL uses one model to infer multiple tasks with better performance by enforcing shared representation among tasks, but a huge drawback is that, most MTL regimes require activation of the entire model even when only one or a few tasks are needed, causing significant computing waste. In this talk, first, we introduce a mixture-of-experts (MoE) approach for MTL ViT, where the experts are sparsely and dynamically activated based on the current task. The approach achieves better accuracy and a huge computation reduction. Second, , we propose Edge-MoE, the first end-to-end FPGA accelerator for multi-task ViT with a rich collection of architectural innovations. 
 
 <!-- Celine Lin -->
@@ -197,12 +197,11 @@ Catherine (Katie) Schuman is an Assistant Professor in the Department of Electri
 Nabil Imam is Assistant Professor in the Department of Computational Science and Engineering at Georgia Tech. He received his Ph.D. from the Department of Electrical and Computer Engineering at Cornell University, with minors in neuroscience and applied math. During his time in graduate school, he worked on DARPA’s SyNAPSE program and built computing systems modeled after the architecture and dynamics of biological neural networks. He subsequently worked at IBM Research and Intel Labs in projects at the intersection of neuroscience and computing. His work has been featured in numerous technology outlets, including Science, Nature, MIT Tech Review, IEEE Spectrum, Scientific American and The New York Times. A computing system he built at IBM has been inducted in the Computer History Museum in Mountain View, CA. 
 
 <!-- Jennifer Hasler -->
-## <a id="jh">Jennifer Hasler - Analog Neuromorphic Hardware and Tooling </a>
+## <a id="j_hasler">Jennifer Hasler - Analog Neuromorphic Hardware and Tooling </a>
 
 <img alt="Jennifer Hasler Headshot" src="./presenter_slides/Friday_02_03_23/headshots/joh_headshot.jpeg" width="200" height="300">
 
-<!-- <a id="jv_ab"></a>**Abstract:** 
+<!-- <a id="j_hasler_ab"></a>**Abstract:** -->
 
-<a id="jv_bio"></a>**Biography:**
-
-
+<a id="j_hasler_bio"></a>**Biography:**
+Dr. Jennifer Hasler received her B.S.E. and M.S. degrees in electrical engineering from Arizona State University in August 1991. She received her Ph.D. in computation and neural systems from California Institute of Technology in February 1997. Dr. Hasler is a professor at the Georgia Institute of Technology in the School of Electrical and Computer Engineering; Atlanta is the coldest climate in which Dr. Hasler has lived. Dr. Hasler founded the Integrated Computational Electronics (ICE) laboratory at Georgia Tech, a laboratory affiliated with the Laboratories for Neural Engineering. Dr. Hasler is a member of Tau Beta Pi, Eta Kappa Nu, and the IEEE.

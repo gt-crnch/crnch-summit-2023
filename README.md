@@ -18,7 +18,7 @@ See more information on the posters and lightning talks at the [CRNCH Github pos
 | 9:15 AM       | ***Keynote\***                                    | **Jeffrey Vetter**  Section Head – Advanced Computing Systems Research, ORNL  [[Speaker Bio](https://github.com/gt-crnch/crnch-summit-2023/blob/main/presenter-abstracts.md#jv_bio)] |
 |               | **Session Chair:**  Rich Vuduc                    | *Deep Codesign in the Post-Exascale Computing Era* [[Abstract](https://github.com/gt-crnch/crnch-summit-2023/blob/main/presenter-abstracts.md#jv_abs)] |
 | 10:00 AM      |                                                   | **BREAK**                                                    |
-| 10:30 AM      | ***Session 1\***                                  | **Ritesh Jain,** Vice-President, Lightmatter                 |
+| 10:30 AM      | ***Session 1\***                                  | **Bob Turner,** Vice-President of Sales, Lightmatter                 |
 |               | ***Device and***  ***Communication Foundations*** | *Accelerating AI through Photonic Communication and Computing* |
 | 11:00 AM      | **Session Chair:** Tushar Krishna                 | **Suman Datta**, Joseph M. Pettit Chair of ECE, Georgia Tech |
 |               |                                                   | *Cool CMOS as Performance Booster*                           |
