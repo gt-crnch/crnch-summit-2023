@@ -28,6 +28,7 @@ We note that in some cases, we have not linked posters due to work being under s
 | Haoran You, Cheng Wan, Yang Zhao, Zhongzhi Yu, Yonggan Fu, Jiayi Yuan, Shang Wu, Shunyao Zhang, Yongan Zhang, Chaojian Li, Vivek Boominathan, Ashok Veeraraghavan, Ziyun Li, Yingyan Lin| "EyeCoD: Eye Tracking System Acceleration via FlatCam-based Algorithm & Accelerator Co-Design" |   Yingyan (Celine) Lin | CS | [Poster]() [Abstract](#hy) |
 | Yongan Zhang, Haoran You, Yonggan Fu, Tong Geng, Ang Li, Yingyan Lin | "G-CoS: GNN-Accelerator Co-Search Towards Both Better Accuracy and Efficiency" |   Yingyan (Celine) Lin | CS | [Poster]() [Abstract](#yz) |
 | Francisco Munoz Martinez, Raveesh Garg, José L. Abellán, Manuel E Acacio, Clay Hughes, Siva Rajamanickam, Tushar Krishna | "Cycle Accurate Simulation of AI Applications using STONNE, SST-STONNE and OMEGA" |   Tushar Krishna | ECE | [Poster]() [Abstract](#fmm) |
+| Pulkit Gupta | Tom Conte | ECE | [Poster]() [Abstract](#pgt) |
 
 
 ## Student Abstracts:
