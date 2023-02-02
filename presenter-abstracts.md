@@ -14,7 +14,7 @@ Jeffrey Vetter, Ph.D., is a Corporate Fellow at Oak Ridge National Laboratory (O
 
 ## <a id="bt">Bob Turner - Accelerating AI through photonic communication and computing </a>
 
-<img alt="Bob Turner Headshot" src="./presenter_slides/Thursday_02_02_23/headshots/rj_headshot.jpeg" width="300" height="300">
+<img alt="Bob Turner Headshot" src="./presenter_slides/Thursday_02_02_23/headshots/bt_headshot.jpg" width="150" height="150">
 
 <a id="rj_ab"></a>**Abstract:** The insatiable growth in computing needs, coupled with the end of Dennard Scaling and the slowdown of Moore’s Law, is resulting in a major shift across the industry towards a chiplets-based product architecture. Solutions that enable the heterogeneous integration of disaggregated silicon at high data rates and low power are becoming increasingly important. Silicon photonics based interconnect solutions play a critical role in enabling this integration.
 
@@ -201,8 +201,7 @@ Nabil Imam is Assistant Professor in the Department of Computational Science and
 
 <img alt="Jennifer Hasler Headshot" src="./presenter_slides/Friday_02_03_23/headshots/joh_headshot.jpeg" width="200" height="300">
 
-<!-- <a id="jv_ab"></a>**Abstract:** 
+<!-- <a id="jh_ab"></a>**Abstract:** 
 
-<a id="jv_bio"></a>**Biography:**
-
-
+<a id="jh_bio"></a>**Biography:**
+Dr. Jennifer Hasler received her B.S.E. and M.S. degrees in electrical engineering from Arizona State University in August 1991. She received her Ph.D. in computation and neural systems from California Institute of Technology in February 1997. Dr. Hasler is a professor at the Georgia Institute of Technology in the School of Electrical and Computer Engineering; Atlanta is the coldest climate in which Dr. Hasler has lived. Dr. Hasler founded the Integrated Computational Electronics (ICE) laboratory at Georgia Tech, a laboratory affiliated with the Laboratories for Neural Engineering. Dr. Hasler is a member of Tau Beta Pi, Eta Kappa Nu, and the IEEE.
