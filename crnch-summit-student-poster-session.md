@@ -3,14 +3,14 @@ The CRNCH Student Poster Session will be held on Feburary 2nd, 2023 from ~12 to 
 
 We note that in some cases, we have not linked posters due to work being under submission or at the presenter's request. 
 
-### Fellowship Winners
+### 2022-2023 Fellowship Winners
 
 | Student Presenter, Student Authors | Poster Title | Advisor(s) | GT Department | [Poster] [Abstract] |
 | ---------------------------------- | ------------ | ---------- | -------------|-------------------|
-| Albert Cho, Anish Saxena, Srikar Vanavasam | "Use CXL, not DDR, for Scalable Server Processors" |   Alexandros Daglis, Moinuddin Qureshi | ECE | [Poster]() [Abstract](#yz) |
-| Afolabi Ige, Jennifer Hasler| "Synthesizing Analog Computing ASICs with Programmable Standard Cells" |   Jennifer Hasler | ECE | [Poster]() [Abstract](#ai) |
-| Rishov Sarkar, Cong (Callie) Hao | "LightningSim: Fast and Accurate Trace-Based Simulation for HLS" |   Cong (Callie) Hao | ECE | [Poster]() [Abstract](#rs) |
-| Zhixin (Jack) Song, Bryan Gard, Spencer Bryngelson | "Solving Partial Differential Equations on Noisy Quantum Computers" |   Dr. Spencer H. Bryngelson | ECE | [Poster]() [Abstract](#zjs) |
+| Albert Cho, Anish Saxena, Srikar Vanavasam | "Use CXL, not DDR, for Scalable Server Processors" |   Alexandros Daglis, Moinuddin Qureshi | ECE | [Poster](https://github.com/gt-crnch/crnch-summit-2023/blob/7308c9db812206e13aeca9be1a749b2c6fa9dc14/student_poster_session/posters/Albert_Cho_et_al_CRNCH_Summit_2023_Fellowship_Poster.pdf) [Abstract](#yz) |
+| Afolabi Ige, Jennifer Hasler| "Synthesizing Analog Computing ASICs with Programmable Standard Cells" |   Jennifer Hasler | ECE | [Abstract](#ai) |
+| Rishov Sarkar, Cong (Callie) Hao | "LightningSim: Fast and Accurate Trace-Based Simulation for HLS" |   Cong (Callie) Hao | ECE | [Abstract](#rs) |
+| Zhixin (Jack) Song, Bryan Gard, Spencer Bryngelson | "Solving Partial Differential Equations on Noisy Quantum Computers" |   Dr. Spencer H. Bryngelson | ECE | [Poster](https://github.com/gt-crnch/crnch-summit-2023/blob/7308c9db812206e13aeca9be1a749b2c6fa9dc14/student_poster_session/posters/Zhixin_Song_et_al_PDE_NISQ_CRNCH_Summit_2023_Poster.pdf) [Abstract](#zjs) |
 
 
 | Student Presenter, Student Authors | Poster Title | Advisor(s) | GT Department | [Poster] [Abstract] |
@@ -18,9 +18,9 @@ We note that in some cases, we have not linked posters due to work being under s
 | Elton Pinto, Austin Adams | "Neko: A quantum map-filter-reduce programming language" |   Vivek Sarkar, Tom Conte, Jeffrey Young | ECE | [Poster](https://github.com/gt-crnch/crnch-summit-2023/blob/4172ba7ad9e9017ea3b2a6016c5de57386939f2b/student_poster_session/posters/Elton_Pinto_et_al_CRNCH_Summit_2023_Poster.pdf) [Abstract](#ep) |
 | Ruobing Han, Jaewon Lee, Jun Chen, Bhanu Garg, Jeffrey Young, Mark Ahn, Xuele Zhou, John Lu, Haotian Sheng, Blaise Tine, Jaewoong Sim, Hyesoon Kim | "CuPBoP: CUDA for Parallelized and Broad-range Processors" |   Hyesoon Kim | ECE | [Poster]() [Abstract](#rh) |
 | Pranav O. Mathews, Jennifer O. Hasler | "Physical Computing for Hopfield Networks on a Reconfigurable Analog IC" |   Dr. Jennifer Hasler | ECE | [Poster]() [Abstract](#pom) |
-| Linhao Yang, Afolabi Ige, Jennifer Hasler, Hang Yang, Callie Hao | "Analog System High-level Synthesis to Physical Devices" |   Jennifer Hasler, Callie Hao | ECE | [Poster]() [Abstract](#ly) |
+| Linhao Yang, Afolabi Ige, Jennifer Hasler, Hang Yang, Callie Hao | "Analog System High-level Synthesis to Physical Devices" |   Jennifer Hasler, Callie Hao | ECE | [Abstract](#ly) |
 | Chaojian Li, Sixu Li, Yang (Katie) Zhao, Wenbo Zhu, Yingyan (Celine) Lin| "RT-NeRF: Real-Time On-Device Neural Radiance Fields Towards Immersive AR/VR Rendering" |   Yingyan (Celine) Lin | ECE | [Poster]() [Abstract](#cl) |
-| Cheng Wan, Yang (Katie) Zhao, Yingyan (Celine) Lin| "MixGCN: Scalable GCN Training by Integrating Mixtures of Parallelism, Accelerators, and Experts Models" |   Yingyan (Celine) Lin | ECE | [Poster]() [Abstract](#cw) |
+| Cheng Wan, Yang (Katie) Zhao, Yingyan (Celine) Lin| "MixGCN: Scalable GCN Training by Integrating Mixtures of Parallelism, Accelerators, and Experts Models" |   Yingyan (Celine) Lin | ECE | [Abstract](#cw) |
 | Chaojian Li, Zhongzhi Yu, Yonggan Fu, Yongan Zhang, Yang Zhao, Haoran You, Qixuan Yu, Yue Wang, Yingyan (Celine) Lin| "HW-NAS-Bench: Hardware-aware Neural Architecture Search Benchmark" |   Yingyan (Celine) Lin | ECE | [Poster]() [Abstract](#clzy) |
 | Patrick Lavin, Sudhanshu Agarwal, Ryan Lunch, Jeffrey Young, Richard Vuduc| "Multifidelity DRAM Simulation in SST" |   Jeffrey Young, Richard Vuduc | ECE | [Poster]() [Abstract](#pl) |
 | Mikhail Isaev, Nic McDonald, Jeff Young, Rich Vuduc| "ParaGraph: An application-simulator interface and toolkit for hardware-software co-design" |   Richard Vuduc | ECE | [Poster]() [Abstract](#mi) |
@@ -28,11 +28,11 @@ We note that in some cases, we have not linked posters due to work being under s
 | Haoran You, Cheng Wan, Yang Zhao, Zhongzhi Yu, Yonggan Fu, Jiayi Yuan, Shang Wu, Shunyao Zhang, Yongan Zhang, Chaojian Li, Vivek Boominathan, Ashok Veeraraghavan, Ziyun Li, Yingyan Lin| "EyeCoD: Eye Tracking System Acceleration via FlatCam-based Algorithm & Accelerator Co-Design" |   Yingyan (Celine) Lin | CS | [Poster]() [Abstract](#hy) |
 | Yongan Zhang, Haoran You, Yonggan Fu, Tong Geng, Ang Li, Yingyan Lin | "G-CoS: GNN-Accelerator Co-Search Towards Both Better Accuracy and Efficiency" |   Yingyan (Celine) Lin | CS | [Poster]() [Abstract](#yz) |
 | Francisco Munoz Martinez, Raveesh Garg, José L. Abellán, Manuel E Acacio, Clay Hughes, Siva Rajamanickam, Tushar Krishna | "Cycle Accurate Simulation of AI Applications using STONNE, SST-STONNE and OMEGA" |   Tushar Krishna | ECE | [Poster]() [Abstract](#fmm) |
-| Pulkit Gupta, Cynthia Wang, Shunzhi Wen, Tom Conte| "A High ILP Architecture for Supercunducting Electronics (SCE)" |   Tom Conte | ECE | [Poster]() [Abstract](#pgcw) |
+| Pulkit Gupta, Cynthia Wang, Shunzhi Wen, Tom Conte| "A High ILP Architecture for Supercunducting Electronics (SCE)" |   Tom Conte | ECE | [Abstract](#pgcw) |
 | Saeed Rashidi, William Won, Sudarshan Srinivasan, Srinivas Sridharan, Tushar Krishna | "Themis: A Network Bandwidth-Aware Collective Scheduling Policy for Distributed Training of DL Models" |   Tushar Krishna | ECE | [Poster]() [Abstract](#srww) |
 | Vima Gupta, Austin Adams, Elton Pinto, Dr. Jeffrey Young, Dr. Tom M Conte | "Effective qubit mapping, routing and scheduling for Ion-Shuttling Quantum Architectures" |   Dr. Jeffrey Young, Dr. Tom Conte | ECE | [Poster]() [Abstract](#vgaa) |
 | Ryan Lynch, Austin Adams, Tom Conte, Jeff Young | "Leveraging MLIR to Augment a Python Quantum DSL" |   Tom Conte, Jeff Young | ECE | [Poster]() [Abstract](#rlaa) |
-| Anirudh Jain, Pulkit Gupta, Tom Conte | "Residue Matrices for accelerating Sparse Kernels & GraphBLAS" |   Tom Conte | ECE | [Poster]() [Abstract](#ajpg) |
+| Anirudh Jain, Pulkit Gupta, Tom Conte | "Residue Matrices for accelerating Sparse Kernels & GraphBLAS" |   Tom Conte | ECE |  [Abstract](#ajpg) |
 | Payman Behnam, Jianming Tong, Alind Khare, Tushar Krishna, Alexey Tumanov | "SUSHI: SubGraph Stationary HW-SW Co-design for ML Inference" |   Tushar Krishna, Alexey Tumanov | ECE | [Poster]() [Abstract](#pbjt) |
 | Blaise Tine, Ruobing Han, Fares Elsabbagh, Krishna Praveen, Apurve Chawda, Will Gulian, Yaotian Feng, Da Eun Shim, Priyadarshini Roshan, Ethan Lyons, Varun Saxena, Santosh Srivatsan, Joshua R. Simpson, Fadi Alzammar, Liam Cooper, Sam Jijina, Swetha Rajagoplan, Tejaswini Anand Kumar, Jeff Young, Hyesoon Kim | "Vortex: Open GPU Research Platform" |   Jeffrey Young, Hyesoon Kim | ECE | [Poster]() [Abstract](#btrh) |
 
