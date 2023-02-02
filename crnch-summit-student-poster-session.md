@@ -33,6 +33,8 @@ We note that in some cases, we have not linked posters due to work being under s
 | Vima Gupta, Austin Adams, Elton Pinto, Dr. Jeffrey Young, Dr. Tom M Conte | "Effective qubit mapping, routing and scheduling for Ion-Shuttling Quantum Architectures" |   Dr. Jeffrey Young, Dr. Tom Conte | ECE | [Poster]() [Abstract](#vgaa) |
 | Ryan Lynch, Austin Adams, Tom Conte, Jeff Young | "Leveraging MLIR to Augment a Python Quantum DSL" |   Tom Conte, Jeff Young | ECE | [Poster]() [Abstract](#rlaa) |
 | Anirudh Jain, Pulkit Gupta, Tom Conte | "Residue Matrices for accelerating Sparse Kernels & GraphBLAS" |   Tom Conte | ECE | [Poster]() [Abstract](#ajpg) |
+| Payman Behnam, Jianming Tong, Alind Khare, Tushar Krishna, Alexey Tumanov | "SUSHI: SubGraph Stationary HW-SW Co-design for ML Inference" |   Tushar Krishna, Alexey Tumanov | ECE | [Poster]() [Abstract](#pbjt) |
+| Blaise Tine, Ruobing Han, Fares Elsabbagh, Krishna Praveen, Apurve Chawda, Will Gulian, Yaotian Feng, Da Eun Shim, Priyadarshini Roshan, Ethan Lyons, Varun Saxena, Santosh Srivatsan, Joshua R. Simpson, Fadi Alzammar, Liam Cooper, Sam Jijina, Swetha Rajagoplan, Tejaswini Anand Kumar, Jeff Young, Hyesoon Kim | "Vortex: Open GPU Research Platform" |   Jeffrey Young, Hyesoon Kim | ECE | [Poster]() [Abstract](#btrh) |
 
 
 ## Student Abstracts:
@@ -119,5 +121,41 @@ High-Level Synthesis allows hardware designers to create complex RTL designs usi
 <a id="zjs">**Zhixin (Jack) Song, Bryan Gard, Spencer Bryngelson - "Solving Partial Differential Equations on Noisy Quantum Computers"**</a>
 
 Numerical solutions to partial differential equations (PDEs) is ab initio important for scientific research and engineering design. Quantum algorithms have been proposed to solve PDEs and verified on small-scale simulators. However, they ignore the effect of quantum hardware noise, which is critical for solving such problems on current and near-term quantum hardware. The utility of current and future quantum algorithms for PDEs is left open by this knowledge gap. We propose an effort that uses quantum noise models to assess the viability of different classes of quantum PDE solvers.
+
+<a id="pgcw">**Pulkit Gupta, Cynthia Wang, Shunzhi Wen, Tom Conte - "A High ILP Architecture for Supercunducting Electronics (SCE)"**</a>
+
+"Superconducting Electronics (SCE) offer opportunities to reach the minimum energy required for computation. That said, SCE and a majority of superconducting logic families face difficult tradeoffs and constraints that require creativity to overcome. Due to constraints on memory size and minimal support for highly ported structures, the majority of existing high-ILP (Instruction Level Parallelism) architectures are not compatible with SCE. We propose a new architecture, the Static sYNchronous Dataflow Risc Architecture (SYNDRA). SYNDRA aims to combine the benefits of statically scheduled VLIW architectures with the register-free execution model of dataflow architectures.
+
+Superscalar processors struggle to find ILP when load latencies are high unless the scheduling window is substantially large. Additionally, scheduling queues dynamically build data dependence graphs by using register renaming to eliminate anti/output dependences. Using static scheduling techniques from VLIW such as list/operation scheduling and treegion scheduling, allows us to limit the computational effort and energy expenditure of large scheduling queues by precomputing the schedule in the compiler. In VLIW processors, the register file serves as a centralized indexable structure that enforces safe execution of a linear stream of wide instructions. SYNDRA combines the energy cost reduction of VLIW/static instruction scheduling with a statically determined dataflow schedule/graph to eliminate a large amount of on-chip effort and register file demands by using compiler driven statically exposed ILP."
+
+<a id="srww">**Saeed Rashidi, William Won, Sudarshan Srinivasan, Srinivas Sridharan, Tushar Krishna - "Themis: A Network Bandwidth-Aware Collective Scheduling Policy for Distributed Training of DL Models"**</a>
+
+"Distributed training is a solution to reduce DNN training time by splitting the task across multiple NPUs (e.g., GPU/TPU). However, distributed training adds communication overhead between the NPUs in order to synchronize the gradients and/or activation, depending on the parallelization strategy. In next-generation platforms for training at scale, NPUs will be connected through multi-dimensional networks with diverse, heterogeneous bandwidths.
+This work identifies a looming challenge of keeping all network dimensions busy and maximizing the network BW within the hybrid environment if we leverage scheduling techniques for collective communication on systems today. We propose Themis, a novel collective scheduling scheme that dynamically schedules collectives (divided into chunks) to balance the communication loads across all dimensions, further improving the network BW utilization. Our results show that on average, Themis can improve the network BW utilization of the single All-Reduce by 1.72x (2.70x max), and improve the end-to-end training iteration performance of real workloads such as ResNet-152, GNMT, DLRM, and Transformer-1T by 1.49x (2.25x max), 1.30x (1.78x max), 1.30x (1.77x max), and 1.25x (1.53x max), respectively."
+
+
+<a id="vgaa">**Vima Gupta, Austin Adams, Elton Pinto, Dr. Jeffrey Young, Dr. Tom M Conte - "Effective qubit mapping, routing and scheduling for Ion-Shuttling Quantum Architectures"**</a>
+
+"Trapped-Ion Linear Tape (TILT) architectures offer a scalable way to realize ion-trapped quantum computers through tape-based shuttling and routing operations. Modulo a cost model for tape movement and gate application, the quality of qubit mapping and routing (QMR) targeting TILT architectures has a tangible impact on circuit fidelity. State-of-the-art QMR techniques either account for the cost of tape movement or rely on heuristic-based approaches.
+In this work, we introduce and evaluate MALT, a comprehensive extension of MaxSAT-based approach. To address the shortcomings of existing qubit mapping and routing (QMR) techniques, we introduce and evaluate MALT, a comprehensive extension of a MaxSAT based QMR technique by Molavi et. al. MALT generates efficient swap insertion and tape movement schedule for shuttling based architectures, geared towards improving circuit fidelity. We are working on addressing the issues in scaling a pure constraint based approach and showcase the performance of a hybrid technique."
+
+<a id="rlaa">**Ryan Lynch, Austin Adams, Tom Conte, Jeff Young - "Leveraging MLIR to Augment a Python Quantum DSL"**</a>
+
+We present a proposed and in-progress technique for using LLVM's MLIR infrastructure to augment Qiskit, a Python DSL for quantum programming, by improving dataflow analyses and ease of optimization.
+
+<a id="ajpg">**Anirudh Jain, Pulkit Gupta, Tom Conte - "Residue Matrices for accelerating Sparse Kernels & GraphBLAS"**</a>
+
+While tiling for dense matrix kernels is well understood and universally applied, sparse kernels have yet to receive the same treatment. The irregular sparsity and distribution of non-zeroes in sparse matrices make a 'one size fits all' approach to tiling ineffective. This work proposed to construct a lightweight signature for sparse inputs and perform operations on it to make a principled decision on tile size and kernel loop ordering without having to sweep the search space. We demonstrate a 1.43x speedup over the current state of the art for the SpMM kernel.
+
+<a id="rlaa">**Payman Behnam, Jianming Tong, Alind Khare, Tushar Krishna, Alexey Tumanov - "SUSHI: SubGraph Stationary HW-SW Co-design for ML Inference"**</a>
+
+"A growing number of applications depends on machine learning functionality and benefits from both higher quality of ML predictions (accuracy) and better timeliness (latency) at the same time. Existing work that focuses on reaching better latency/accuracy yields improvements for a single point in the latency/accuracy tradeoff space.
+We draw on a recently proposed weight-shared SuperNet mechanism to enable serving a stream of queries that activates different SubNets within this weight-shared construct. It creates an opportunity to exploit the inherent temporal locality with our proposed SubGraph Stationary optimization. We take a hardware-software co-design approach with a real implementation of SubGraph Stationary in a novel FPGA implementation of a software
+scheduler controlling which SubNets to serve and what to cache in real-time. An Abstraction is proposed to decouple the scheduler from the underlying hardware, i.e., the change in the hardware should not require any changes in the scheduler policy code. Combined, they are vertically integrated into SUSHI—an inference serving stack, which yields up to 41% improvement in latency, 1% increase in served accuracy, and achieves up to 52.6% saved energy."
+
+<a id="rlaa">**Blaise Tine, Ruobing Han, Fares Elsabbagh, Krishna Praveen, Apurve Chawda, Will Gulian, Yaotian Feng, Da Eun Shim, Priyadarshini Roshan, Ethan Lyons, Varun Saxena, Santosh Srivatsan, Joshua R. Simpson, Fadi Alzammar, Liam Cooper, Sam Jijina, Swetha Rajagoplan, Tejaswini Anand Kumar, Jeff Young, Hyesoon Kim - "Vortex: Open GPU Research Platform"**</a>
+
+Vortex is an open-source hardware and software project to support GPU using RISC-V ISA extensions. Vortex supports OpenCL and runs on FPGA. Vortex has also been extended to accelerate graphics rendering with Vulkan. The Vortex platform is extensible and scalable, including a completely open-source compiler, driver, and runtime software stack, which enables end-to-end research in the GPU domain.
+
 
 
