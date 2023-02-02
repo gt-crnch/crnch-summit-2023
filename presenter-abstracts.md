@@ -10,17 +10,16 @@
 <a id="jv_bio"></a>**Biography:**
 Jeffrey Vetter, Ph.D., is a Corporate Fellow at Oak Ridge National Laboratory (ORNL). At ORNL, he is currently the Section Head for Advanced Computer Systems Research and the founding director of the Experimental Computing Laboratory (ExCL). Vetter earned his Ph.D. in Computer Science from the Georgia Institute of Technology. Vetter is a Fellow of the IEEE and AAAS, and a Distinguished Scientist Member of the ACM. In 2010, Vetter, as part of an interdisciplinary team from Georgia Tech, NYU, and ORNL, was awarded the ACM Gordon Bell Prize. In 2020, in collaboration with a large team from IBM and LLNL, Vetter was awarded the SC20 Test of Time award for the paper from SC02, entitled “An Overview of the Blue Gene/L Supercomputer.” In 2015, Vetter served as the SC15 Technical Program Chair. His recent books, entitled "Contemporary High Performance Computing: From Petascale toward Exascale (Vols. 1-3)," survey the international landscape of HPC. Learn more information at https://vetter.github.io/.
 
-<!-- ritesh jain section -->
+<!-- Bob Turner section -->
 
-## <a id="jv">Ritesh Jain - Accelerating AI through photonic communication and computing </a>
+## <a id="bt">Bob Turner - Accelerating AI through photonic communication and computing </a>
 
-<img alt="Ritesh Jain Headshot" src="./presenter_slides/Thursday_02_02_23/headshots/rj_headshot.jpeg" width="300" height="300">
+<img alt="Bob Turner Headshot" src="./presenter_slides/Thursday_02_02_23/headshots/rj_headshot.jpeg" width="300" height="300">
 
 <a id="rj_ab"></a>**Abstract:** The insatiable growth in computing needs, coupled with the end of Dennard Scaling and the slowdown of Moore’s Law, is resulting in a major shift across the industry towards a chiplets-based product architecture. Solutions that enable the heterogeneous integration of disaggregated silicon at high data rates and low power are becoming increasingly important. Silicon photonics based interconnect solutions play a critical role in enabling this integration.
 
-<a id="rj_bio"></a>**Biography:**
-Ritesh Jain is Vice President of Hardware Engineering at Lightmatter, focusing on Systems and Packaging. He leads the team responsible for developing systems solutions for Lightmatter's Envise and Passage products. Before joining Lightmatter, Ritesh was a Vice President of HW Engineering at Intel's Data Center and AI Group where he spent over 2 decades developing HW solutions for data center products including Intel's Xeon CPUs and AI accelerators. Ritesh earned a Bachelor’s degree in Mechanical Engineering from the Indian Institute of Technology, Madras, India; and a Master’s degree in electronic packaging from the University of Maryland, College Park. 
-
+<a id="bt_bio"></a>**Biography:**
+Bob Turner is the Vice President of Sales at Lightmatter - who provides state of the art silicon photonics solutions targeting a wide range of applications where data movement is the limiting factor.  Prior to Lightmatter, Mr. Turner held senior roles at Graphcore and Cavium.  
 
 
 <!-- suman datta section -->
