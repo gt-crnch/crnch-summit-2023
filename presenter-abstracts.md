@@ -197,11 +197,11 @@ Catherine (Katie) Schuman is an Assistant Professor in the Department of Electri
 Nabil Imam is Assistant Professor in the Department of Computational Science and Engineering at Georgia Tech. He received his Ph.D. from the Department of Electrical and Computer Engineering at Cornell University, with minors in neuroscience and applied math. During his time in graduate school, he worked on DARPA’s SyNAPSE program and built computing systems modeled after the architecture and dynamics of biological neural networks. He subsequently worked at IBM Research and Intel Labs in projects at the intersection of neuroscience and computing. His work has been featured in numerous technology outlets, including Science, Nature, MIT Tech Review, IEEE Spectrum, Scientific American and The New York Times. A computing system he built at IBM has been inducted in the Computer History Museum in Mountain View, CA. 
 
 <!-- Jennifer Hasler -->
-## <a id="jh">Jennifer Hasler - Analog Neuromorphic Hardware and Tooling </a>
+## <a id="j_hasler">Jennifer Hasler - Analog Neuromorphic Hardware and Tooling </a>
 
 <img alt="Jennifer Hasler Headshot" src="./presenter_slides/Friday_02_03_23/headshots/joh_headshot.jpeg" width="200" height="300">
 
-<!-- <a id="jh_ab"></a>**Abstract:** -->
+<!-- <a id="j_hasler_ab"></a>**Abstract:** -->
 
-<a id="jh_bio"></a>**Biography:**
+<a id="j_hasler_bio"></a>**Biography:**
 Dr. Jennifer Hasler received her B.S.E. and M.S. degrees in electrical engineering from Arizona State University in August 1991. She received her Ph.D. in computation and neural systems from California Institute of Technology in February 1997. Dr. Hasler is a professor at the Georgia Institute of Technology in the School of Electrical and Computer Engineering; Atlanta is the coldest climate in which Dr. Hasler has lived. Dr. Hasler founded the Integrated Computational Electronics (ICE) laboratory at Georgia Tech, a laboratory affiliated with the Laboratories for Neural Engineering. Dr. Hasler is a member of Tau Beta Pi, Eta Kappa Nu, and the IEEE.
