@@ -16,7 +16,7 @@ Jeffrey Vetter, Ph.D., is a Corporate Fellow at Oak Ridge National Laboratory (O
 
 <img alt="Bob Turner Headshot" src="./presenter_slides/Thursday_02_02_23/headshots/bt_headshot.jpg" width="150" height="150">
 
-<a id="rj_ab"></a>**Abstract:** The insatiable growth in computing needs, coupled with the end of Dennard Scaling and the slowdown of Moore’s Law, is resulting in a major shift across the industry towards a chiplets-based product architecture. Solutions that enable the heterogeneous integration of disaggregated silicon at high data rates and low power are becoming increasingly important. Silicon photonics based interconnect solutions play a critical role in enabling this integration.
+<a id="bt_ab"></a>**Abstract:** The insatiable growth in computing needs, coupled with the end of Dennard Scaling and the slowdown of Moore’s Law, is resulting in a major shift across the industry towards a chiplets-based product architecture. Solutions that enable the heterogeneous integration of disaggregated silicon at high data rates and low power are becoming increasingly important. Silicon photonics based interconnect solutions play a critical role in enabling this integration.
 
 <a id="bt_bio"></a>**Biography:**
 Bob Turner is the Vice President of Sales at Lightmatter - who provides state of the art silicon photonics solutions targeting a wide range of applications where data movement is the limiting factor.  Prior to Lightmatter, Mr. Turner held senior roles at Graphcore and Cavium.  
